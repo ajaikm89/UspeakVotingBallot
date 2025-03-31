@@ -1,0 +1,11 @@
+Copyright (c) 2025 Ajai K M
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are the proprietary property of Ajai K M.
+
+Permission is hereby NOT granted to any person or organization to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, in whole or in part, without prior written consent from the copyright holder.
+
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+Unauthorized use of this Software is strictly prohibited and may be subject to legal action.
